@@ -185,7 +185,7 @@
 }
 /* END: Home Page Banner */
 
-/* START: How ConnectMe Works */
+/* START: How Bethel Works */
 .bethelText {
     color: #175977;
 }
@@ -197,9 +197,9 @@
     font-size: 25px;
     font-weight: normal;
 }
-/* END: How ConnectMe Works */
+/* END: How Bethel Works */
 
-/* START: Amazing job opportunities */
+/* START: Amazing scholarship opportunities */
 .learnSkills {
     width: 100%;
     background-color: rgba(23, 89, 119, 0.05);
@@ -241,62 +241,10 @@ img#ladywrkin {
     margin-top: 25px;
 }
 
-/* END: Amazing job opportunities */
+/* END: Amazing scholarship opportunities */
 
-/* START: The Benefit of Using ConnectMe  */
 
-.tbucImg1 {
-    
-    width: 418.83px;
-    height: 443.31px;
-    background-color: #800020;
-    position: relative;
-}
-.tbucImg2 {
-    position: absolute;
-    top: 20px;
-    left: 20px;
-}
-img.tbucicon {
-    margin-right: 10px;
-}
-.tbucback {
-    padding-top: 70px;
-}
-.tbucnext {
-    padding-top: 70px;
-}
-.tbucText {
-    
-    margin: auto;
-    margin-top: 20px;
-}
-.tbucTextHead {
-    font-size: 30px;
-    color: #800020;
-    
-}
-.tbucText h4{
-    font-size: 18px;
-    color: #800020;
-    font-weight: bold;
-}
-.tbucText h4 span {
-    color: #175977;
-}
-.tbucText .tbucsmalltext {
-    margin-left: 5.3%;
-}
-/* #tbucDisplay2 {
-    display: none;
-}
-#tbucDisplay3 {
-    display: none;
-} */
-
-/* END: The Benefit of Using ConnectMe  */
-
-/* START: Aspiring employees, inspiring employers. */
+/* START: Partners */
 #aeie {
     padding-top: 20px;
     margin-bottom: 20px;
@@ -310,62 +258,8 @@ img.tbucicon {
     margin: auto;
     text-align: center;
 }
-/* END: Aspiring employees, inspiring employers. */
+/* END: Partners */
 
-/* START: Success stories */
-.storiesSection {
-    margin-bottom: 1px;
-    
-}
-.storiesImg {
-  box-sizing: border-box;
-  padding-left: 0% !important;
-  padding-right: 0% !important;  
-}
-.storiesImg img {
-    width: 100%;
-}
-.storiesInfo {
-    background: #175977;  
-    color: white;
-    padding-top: 80px;
-    
-}
-.storiesText {
-    position: relative;
-    text-align: center;
-}
-.employeeImg {
-    width: 152px;
-    position: absolute;
-    right: 40px;
-    top: 25px;
-}
-.employeeImg img {
-    border-radius: 100%;
-}
- .employeeStory {
-     font-size: 20px;
- }
- .employeeSuccessStory {
-    font-size: 14px;
-    padding-top: 20px;
-    padding-bottom: 20px;
- }
- .storyBack {
-     margin-top: 100px;
- }
- .storyNext {
-    margin-top: 100px;
-}
-#storyDisplay2 {
-    display: none;
-}
-#storyDisplay3 {
-    display: none;
-}
-
-/* END: Success stories */
 
 /* START: FOOTER */
 footer {
@@ -472,9 +366,9 @@ footer a{
     .hcwHead {
         font-size: 20px;
     }
-    /* END: How ConnectMe Works */
+    /* END: How Bethel Works */
 
-    /* START: Amazing job opportunities */
+    /* START: Amazing scholarship opportunities */
     .lady_assistant{
         height: 300px;
         text-align: center;
@@ -496,63 +390,10 @@ footer a{
     .learnImg {
         width: 99%;
     }
-    /* END: Amazing job opportunities */
+    /* END: Amazing scholarship opportunities */
 
-    /* START: The Benefit of Using ConnectMe  */
-
-    .tbucImg1 {
-   
-    width: 268.83px;
-    height: 293.31px;
-    background-color: #800020;
-    position: relative;
-    margin: auto;
-    }
-    .tbucImg2 {
     
-    width: 268.83px;
-    height: 293.31px;
-    position: absolute;
-    top: 20px;
-    left: 20px;
-    }
-    .tbucImg2 img {
-    
-    width: 100%;
-    }
-    .tbucText {
-    text-align: center;
-    padding-top: 15px;
-    }
-    .tbucTextHead {
-    
-    font-size: 22px;
-    color: #800020;
-    }
-    .tbucText p {
-    text-align: left;
-    }
-    .scrollText {
-   
-    width: 285px;
-    }
-    .tbucback {
-    padding-left: 0px;
-    padding-top: 110px;
-    }
-    .tbucnext {
-    padding-top: 110px;
-    }
-    .scrollText h4 {
-    font-size: 17px;
-    }
-    .scrollText p {
-    font-size: 14px;
-    }
-
-    /* END: The Benefit of Using ConnectMe  */
-
-    /* START: Aspiring employees, inspiring employers. */
+    /* START: Partners */
     #aeie {
     padding-top: 15px;
     margin-bottom: 15px;
@@ -564,65 +405,9 @@ footer a{
     .aeiebottomlink {
     font-size: 12px;
     }
-    /* END: Aspiring employees, inspiring employers. */
+    /* END: Partners */
 
-    /* START: Success stories */
-    .storiesImg {
-    display: none;
-     
-    }
-    .storiesInfo {
-    background: #175977;  
-    color: white;
-    padding-top: 30px;
-    height: 370px;
     
-    }
-    .storyscroll {
-    width: 300px;
-    }
-
-    .storiesText {
-    position: relative;
-    text-align: center;
-    width: 300px;
-    margin: auto;
-    }
-    .employeeImg {
-    width: 100px;
-    height: 100px;
-    position: absolute;
-    right: 200px;
-    top: 15px;
-    }
-    .employeeImg img {
-    width: 100%;
-    }
-    .storyscrollHead {
-    width: 400px;
-   
-    }
-    .backbox {
-    float: left;
-    }
-
-    .nextbox {
-    float: right;
-    }
-    .employeeStory {
-    font-size: 15px;
-    }
-    .employeeStory h4 {
-    font-size: 17px;
-    }
-    .employeeSuccessStory {
-    font-size: 12px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    }
-
-    /* END: Success stories */
-
     /* FOOTER */
     .footernav1 {
         text-align: center;
